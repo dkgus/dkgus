@@ -1,6 +1,3 @@
-![KakaoTalk_20210812_213210605](https://user-images.githubusercontent.com/77622831/129197464-7672b504-9296-4283-839b-6427cdaa4824.jpg)
-
-
 
 <h1> Tech Stack <h1>
 Techs that I`ve used at least once
